@@ -25,8 +25,8 @@
 #include <time.h>
 
 // ---------- CONFIG ----------
-const char* WIFI_SSID     = "guesto";
-const char* WIFI_PASSWORD = "i4bg4hxgyhf8k";
+const char* WIFI_SSID     = "myssid";
+const char* WIFI_PASSWORD = "mypassword";
 const char* WORKER_URL = "https://honeypot-worker.mara-75f.workers.dev/ingest";
 const char* DEVICE_LABEL  = "honeypot-esp32-01";
 
